@@ -1,7 +1,0 @@
-SITE OVH compte : decottignies.jimmy@hotmail.fr		9010277...
-
-
-FTP : ftp.cluster029.hosting.ovh.net
-identifiant : gaelleq
-Mdp : Kq5cufvqf83G
-port : 22
